@@ -33,6 +33,12 @@ A extensão também suporta temas claro e escuro, adaptando-se às preferências
 
 ## Como Carregar a Extensão no Navegador
 
+### Na pasta do projeto execue o comando
+Realize o build para gerar a pasta dist:
+   ```sh
+   npm run build
+   ```
+
 ### Chrome / Edge
 1. Acesse `chrome://extensions/` ou `edge://extensions/`
 2. Ative o "Modo do desenvolvedor"
